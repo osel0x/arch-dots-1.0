@@ -228,3 +228,11 @@ echo "These instructions have been saved to ~/Note.txt. Make sure to go through 
 echo "For instructions regarding usage on VirtualMachines, please refer to the VM folder of the repo." | tee -a ~/Note.txt
 sleep 5
 xmonad --recompile
+
+echo "Extra configurations"
+echo "Based on https://www.youtube.com/watch?v=LBNEW4ZKvEc&t=956s"
+# sudo pacman -Sy gtk2
+# cd ~
+# startx >> .bash_profile
+# .xinitrc >> exec xmonad
+# logout & login
