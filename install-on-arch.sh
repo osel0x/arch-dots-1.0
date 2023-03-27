@@ -235,4 +235,5 @@ echo "Based on https://www.youtube.com/watch?v=LBNEW4ZKvEc&t=956s"
 # cd ~
 # startx >> .bash_profile
 # .xinitrc >> exec xmonad
+# xmonad --recompile
 # logout & login
